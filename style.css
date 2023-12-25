@@ -307,7 +307,7 @@ ul p{
     .nav-search{
         display: flex;
         background-color: #f3a847;
-        width: 100%;
+        width: 90%;
         height:4.71vw;
         border-radius: 4px;
         justify-content: space-evenly;
